@@ -60,7 +60,7 @@ public class Rectangulo extends Frame implements WindowListener {
 
 		Font font = new Font("Times New Roman", Font.BOLD, 14);
 		g.setFont(font);
-		g.drawString("Buenas", 125, 60);
+		g.drawString("Buenas", 125, 90);
 	}
 }
 
