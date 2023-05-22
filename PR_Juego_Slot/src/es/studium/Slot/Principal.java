@@ -10,5 +10,4 @@ public class Principal {
 		new Controlador(modelo, menuPrincipal);
 
 	}
-
 }
